@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4403596,
       "digest": "sha256:ddb062fd85d59d1e109899158d36c92a58eb177d9323a829228d86998209a586",
-      "download_count": 66,
+      "download_count": 67,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:38Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Windows_x86_64.zip"
