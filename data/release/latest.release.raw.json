@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4255074,
       "digest": "sha256:6abe1a32b7943a833ae4b126335c6d2845ec93b573bcdda1ac534b7f839384b5",
-      "download_count": 137,
+      "download_count": 138,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:38Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4403596,
       "digest": "sha256:ddb062fd85d59d1e109899158d36c92a58eb177d9323a829228d86998209a586",
-      "download_count": 77,
+      "download_count": 80,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:38Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Windows_x86_64.zip"
