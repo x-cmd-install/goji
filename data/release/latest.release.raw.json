@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8365849,
       "digest": "sha256:73e236171c0dbca10cd5f0b368f57bf2b4ee92cb13def5677cd223c8a924bcac",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-01-19T16:45:39Z",
       "updated_at": "2026-01-19T16:45:40Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Darwin_all.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3921416,
       "digest": "sha256:7ad244f1884b87fe4155e6bf34e2c7decdcd9d787005355117e1450ff1d51bb6",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:39Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Linux_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4060695,
       "digest": "sha256:34932b0596abfc753bea350d6d1d772162252f57a3c63ccd94db450dfe13b2ad",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:39Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Linux_armv7.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4255074,
       "digest": "sha256:6abe1a32b7943a833ae4b126335c6d2845ec93b573bcdda1ac534b7f839384b5",
-      "download_count": 146,
+      "download_count": 151,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:38Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4403596,
       "digest": "sha256:ddb062fd85d59d1e109899158d36c92a58eb177d9323a829228d86998209a586",
-      "download_count": 95,
+      "download_count": 104,
       "created_at": "2026-01-19T16:45:38Z",
       "updated_at": "2026-01-19T16:45:38Z",
       "browser_download_url": "https://github.com/muandane/goji/releases/download/v0.2.0/goji_v0.2.0_Windows_x86_64.zip"
