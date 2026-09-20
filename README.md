@@ -4,7 +4,7 @@
 
 Commitizen-like Emoji Commit Tool written in Go and AI commit message generator (think cz-emoji and other commitizen adapters but in go)  🚀
 
-![goji](https://repo.x-cmd.io/goji.svg)
+[![x-cmd/install — goji Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goji.svg)](https://x-cmd.com/install/goji)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **6,630** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 10 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 4 | 22 | 10 | 3 | 0 | 43 |
-| last720d | 2024-09-28 | 9 | 51 | 10 | 5 | 1 | 139 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 4 | 22 | 10 | 3 | 0 | 30 |
+| last720d | 2024-09-30 | 9 | 50 | 10 | 5 | 1 | 139 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for goji lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:56:08Z._
